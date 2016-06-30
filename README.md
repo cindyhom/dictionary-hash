@@ -2,7 +2,10 @@
 Spellchecker that checks if words are found in the dictionary hash table
 
 ### Instructions:
-1. Run the program with 3 command line arguments in the following order: dictionary file, test file, personal dictionary file.
+1. Run the program with 3 command line arguments in the following order: 
+   + dictionary file
+   + test file
+   + personal dictionary file.
 2. Results will output to a file, indicating whether the words in the test file are correctly spelled according to the dictionary file and personal dictonary file.
 
 ### Overview:
